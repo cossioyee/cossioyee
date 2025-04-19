@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<p float="center">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cossioyee&layout=compact&hide=html,css" alt="Top Languages" />
+</p>
+
 <!--
 **cossioyee/cossioyee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
